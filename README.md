@@ -445,3 +445,16 @@ Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 # Contribuições
 
 Sinta-se a vontade para realizar adicionar mais informações ou realizar correções. Fork me!
+
+
+
+
+# para altear a url do git remote:
+
+git remote set-url origin git@github.com:leocomelli/outro-curso-git.git
+
+# Comando para pegar url do repositório 
+"git config --get remote.origin.url", é util para pegar a URL do repositório, principalmente no uso em Shell Scripts
+
+
+
