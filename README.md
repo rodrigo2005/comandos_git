@@ -453,8 +453,7 @@ Sinta-se a vontade para realizar adicionar mais informações ou realizar corre�
 
 git remote set-url origin git@github.com:leocomelli/outro-curso-git.git
 
-# Comando para pegar url do repositório 
-"git config --get remote.origin.url", é util para pegar a URL do repositório, principalmente no uso em Shell Scripts
+
 
 
 
